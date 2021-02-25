@@ -6,7 +6,7 @@ n = int(input('Enter number of questions: '))
 n1 = int(input('Enter lower bound: '))
 n2 = int(input('Enter upper bound: '))
 
-PATH = '..\chromedriver.exe'
+PATH = '.\chromedriver.exe'
 driver=webdriver.Chrome(PATH)
 
 q_code=[]
