@@ -3,7 +3,7 @@
 
 ## 2020CS50447
 
-The chromedriver.exe given is for windows please ensure that you are using the right version which matches with your chrome browser version.
+The *chromedriver.exe* given is for windows please ensure that you are using the right version which matches with your chrome browser version.
 The .exe file should be present in this folder
 
 #### Task 1
